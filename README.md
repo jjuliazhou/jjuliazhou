@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, my name is Julia Zhou
 
-<!--
-**jjuliazhou/jjuliazhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here, you'll find my portfolio of interests and learnings!
 
-Here are some ideas to get you started:
+ABOUT ME
+𖦹 Reach me at: juliazhou26@gmail.com
+✰ My pronouns are: she/they
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MY LINKS
+ʚ Connect with me: [https://www.linkedin.com/feed/](https://www.linkedin.com/in/jjuliazhou/)
+➷ Explore my Dev articles for LLMWARE: [https://dev.to/jjuliazhou](https://dev.to/jjuliazhou)
+✎ Read my partner and I's PRIMES paper on graph theory: [https://math.mit.edu/research/highschool/primes/materials/2024/May/5-2%20Tomasz.pdf](https://math.mit.edu/research/highschool/primes/materials/2024/May/5-2%20Tomasz.pdf)
+♬ Check out my piano performances: [JULIA ZHOU PIANO PLAYLIST](https://youtube.com/playlist?list=PLXCgejH6jijHoR2DGIjuIWeolBEGt3nvx&si=J9a7UBznS3otMuQQ)
